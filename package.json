@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "A sample node server to perform basic http request response.",
+  "main": "server.js",
+  "repository": "https://github.com/rajeshv/node_server.git",
+  "author": "Rajesh Veedhi <rajesh.venkat.veedhi@gmail.com>",
+  "license": "MIT"
+}
